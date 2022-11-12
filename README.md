@@ -11,6 +11,7 @@ Source link="https://www.kaggle.com/datasets/mahmoudahmed6/udemy-top-5k-course-2
 # Day. 2: Data Wrangling and Preprocessing 
 1. Hands on practice on alteryx and trifacta.
 2. uploading work flow on github repository.
-##Day. 2:
-# Day 3 : Data visualization Project 
-1.
+# Day 3: Data visualization Project 
+1. Performed data visualization with differt tool available over internet.
+2. Created a website with the data we analysied.
+
